@@ -1,6 +1,6 @@
 # NAP Browser Unlocked - Shep
 
-Adds 'SEB/1.0' to the end of users default user agent.
+Adds 'SEB/1.0' to the end of users default user agent. Big thanks to JoshAtticus for finding the useragent.
 
 ## Requirements
 
