@@ -46,4 +46,4 @@ The script performs these steps:
 
 ## License - [MIT License](https://opensource.org/licenses/MIT)
 
-This is not an application made to compromise academix integrity. I do not endorse the use of this application to cheat.
+This is not an application made to compromise academic integrity. I do not endorse the use of this application to cheat.
