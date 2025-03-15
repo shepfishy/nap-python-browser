@@ -45,5 +45,5 @@ The script performs these steps:
 - **Ctrl+Shift+S**: Switch to student login page (works only once)
 
 ## License
-
+This is not an application made to compromise academix integrity. I do not endorse the use of this application to cheat.
 [MIT License](https://opensource.org/licenses/MIT)
