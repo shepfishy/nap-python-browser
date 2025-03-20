@@ -15,7 +15,7 @@ Adds 'SEB/1.0' to the end of users default user agent. Big thanks to JoshAtticus
 
 1. Install required Python packages:
 ```bash
-pip install selenium webdriver-manager keyboard
+pip install -r requirements.txt
 ```
 
 2. Chrome browser should be installed on your system
